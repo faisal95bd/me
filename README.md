@@ -1,6 +1,6 @@
 <div  align="center">
   
-<b> Faisal Ahmed </b> : https://faisal95bd.github.io/faisal95bd/
+<b> Faisal Ahmed </b> : https://faisal95bd.github.io/faisal95bd
 
 <hr style="background-color:black;">
 
