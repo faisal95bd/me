@@ -1,5 +1,6 @@
 <div  align="center">
-# Faisal Ahmed
+  
+<b> Faisal Ahmed </b>
 
 <hr style="background-color:black;">
 
